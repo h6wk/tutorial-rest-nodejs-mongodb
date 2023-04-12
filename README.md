@@ -13,6 +13,8 @@ MongoDB free cloud
 # Packages
 Using npm ecosystem.
 
-Run `npm init` in order to set up the first version of `package.json`.
+Run `npm init` in order to set up the first version of *package.json*.
 
-Install `express` as the backend's webserver by run  `npm install express`.
+Install *express* as the backend's webserver by run  `npm install express`.
+
+Install *mongoose* for MongoDB by `npm install mongoose`
