@@ -8,7 +8,16 @@ Have everything on the cloud.
 Maybe: replit free version
 
 ## Database server
-MongoDB free cloud
+MongoDB free cloud.
+
+### Mongoose
+Using mongoose to connect with.
+```
+main().catch((err) => console.log(err)).then(() => console.log("Database connected"));
+async function main() {
+  await mongoose.connect(mongoDB);
+}
+```
 
 # Packages
 Using npm ecosystem.
